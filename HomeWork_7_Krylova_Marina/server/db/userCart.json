@@ -1,0 +1,12 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Геймпад",
+            "price": 3200
+        }
+    ]
+}
